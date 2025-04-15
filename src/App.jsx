@@ -1,9 +1,11 @@
-import './App.css'
+import './App.css';
+import WeatherCard from './components/WeatherCard.jsx';
 
 function App() {
 
   return (
     <>
+      <WeatherCard />
     </>
   )
 }
